@@ -1,4 +1,4 @@
-# Transform Journey - Visual Story Creator
+# Transform Journey
 
 Transform Journey is a powerful web application that helps users create personalized transformation plans and learning journeys with AI-powered content generation and visual storytelling capabilities.
 
