@@ -35,8 +35,8 @@ Transform Journey is a powerful web application that helps users create personal
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/transform-journey.git
-cd transform-journey
+git clone https://github.com/Bupalchow/Tranformation-helper.git
+cd Tranformation-helper
 ```
 
 2. Install dependencies:
@@ -83,9 +83,6 @@ yarn dev
 - html-to-image
 - Lucide React Icons
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
