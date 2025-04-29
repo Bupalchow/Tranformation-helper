@@ -228,7 +228,7 @@ function App() {
     
     setLoading(true);
     try {
-      const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+      const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
       
       const journeyPrompt = `Create a comprehensive transformation journey for "${topic}" in the context of "${transformationType}".
       Return the response in this exact HTML format:
