@@ -16,7 +16,7 @@ import * as htmlToImage from 'html-to-image';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import mermaid from 'mermaid';
 
-const genAI = new GoogleGenerativeAI('AIzaSyAZXyCK5sgFoCv9Fhsgtn-wBqt4DqbyY7U');
+const genAI = new GoogleGenerativeAI("AIzaSyB0eTnUcqxDBfdEzGIW5afZLvd-i06fcEw"||'AIzaSyAZXyCK5sgFoCv9Fhsgtn-wBqt4DqbyY7U');
 mermaid.initialize({ startOnLoad: true });
 
 interface CalendarDay {
